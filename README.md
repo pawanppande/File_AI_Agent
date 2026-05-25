@@ -77,7 +77,7 @@ File_AI_Agent/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/file-ai-agent.git
+git clone https://github.com/pawanppande/file-ai-agent.git
 cd file-ai-agent/agent
 ```
 
