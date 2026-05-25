@@ -1,6 +1,6 @@
 # File AI Agent — Chat with your PDFs locally, for free
 
-> A fully local, open-source RAG (Retrieval Augmented Generation) app that lets you upload a PDF and ask questions about it — powered by Ollama, LangChain, ChromaDB, and Streamlit. No API keys. No cloud. No cost.
+> A fully local, open-source RAG (Retrieval Augmented Generation) app that lets you upload a PDF and ask questions about it, powered by Ollama, LangChain, ChromaDB, and Streamlit. No API keys. No cloud. No cost.
 
 ---
 
